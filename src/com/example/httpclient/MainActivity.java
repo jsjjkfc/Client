@@ -5,9 +5,6 @@ import java.io.FileOutputStream;
 import java.io.InputStream;
 import java.util.Properties;
 
-import org.apache.commons.configuration.ConfigurationException;
-import org.apache.commons.configuration.PropertiesConfiguration;
-
 import android.os.Bundle;
 import android.app.Activity;
 import android.content.Context;
